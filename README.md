@@ -175,3 +175,6 @@ This project is open source and available under the MIT License.
 - Zodiac data and insights based on traditional astrological knowledge
 - Hindi translations crafted for cultural authenticity
 - Modern UI design inspired by contemporary web standards
+
+## 🤖 Glimpse
+<img width="1915" height="936" alt="image" src="https://github.com/user-attachments/assets/973e8c55-bbea-401d-a9c2-70d24a86c846" />
